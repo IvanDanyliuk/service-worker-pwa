@@ -5,6 +5,27 @@
     "background_color": "#2196f3",
     "display": "standalone",
     "orientation": "portrait",
-    "scope": "/",
-    "start_url": "."
-  }
+    "start_url": ".",
+    "icons": [
+        {
+            "src": "/icons/icons8-puzzle-96.png",
+            "size": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icons8-puzzle-128.png",
+            "size": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icons8-puzzle-256.png",
+            "size": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icons8-puzzle-512.png",
+            "size": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
